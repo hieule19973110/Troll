@@ -1,0 +1,510 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        0.85842597484588623,
+        0.72119200229644775,
+        2.847498893737793
+      ],
+      "min": [
+        -0.85842597484588623,
+        -0.53301000595092773,
+        1.1884859800338745
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3408,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        0.94914036989212036,
+        0.999991774559021,
+        0.99998700618743896
+      ],
+      "min": [
+        -0.94912594556808472,
+        -0.99982517957687378,
+        -0.77639353275299072
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        0.99933987855911255,
+        0.86451756954193115,
+        0.9999920129776001,
+        1
+      ],
+      "min": [
+        -0.99934029579162598,
+        -0.99998700618743896,
+        -0.99994581937789917,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        0.98457902669906616,
+        0.98641198873519897
+      ],
+      "min": [
+        0.0081550003960728645,
+        0.011931999586522579
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1356,
+      "max": [
+        283
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 6816,
+      "componentType": 5126,
+      "count": 2115,
+      "max": [
+        0.33342200517654419,
+        -0.93587601184844971,
+        4.9122681617736816
+      ],
+      "min": [
+        -0.33342200517654419,
+        -1.2451189756393433,
+        4.4448051452636719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 32196,
+      "componentType": 5126,
+      "count": 2115,
+      "max": [
+        1,
+        0.99966782331466675,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4544,
+      "componentType": 5126,
+      "count": 2115,
+      "max": [
+        0.99404036998748779,
+        1,
+        0.99952560663223267,
+        1
+      ],
+      "min": [
+        -0.99661362171173096,
+        -0.98117601871490479,
+        -0.9992249608039856,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2272,
+      "componentType": 5126,
+      "count": 2115,
+      "max": [
+        0.65386301279067993,
+        0.99467498064041138
+      ],
+      "min": [
+        0.0086650000885128975,
+        0.0063829999417066574
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5424,
+      "componentType": 5125,
+      "count": 9324,
+      "max": [
+        2114
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 57576,
+      "componentType": 5126,
+      "count": 8124,
+      "max": [
+        4.2982630729675293,
+        0.87869000434875488,
+        5.413261890411377
+      ],
+      "min": [
+        -4.2981419563293457,
+        -1.3005900382995605,
+        0.002736999886110425
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 155064,
+      "componentType": 5126,
+      "count": 8124,
+      "max": [
+        0.99994206428527832,
+        0.99976736307144165,
+        0.99956780672073364
+      ],
+      "min": [
+        -0.99969810247421265,
+        -0.99998939037322998,
+        -0.99993360042572021
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 38384,
+      "componentType": 5126,
+      "count": 8124,
+      "max": [
+        0.99979293346405029,
+        0.99816137552261353,
+        0.99999237060546875,
+        1
+      ],
+      "min": [
+        -0.99988597631454468,
+        -0.99968636035919189,
+        -0.99986809492111206,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19192,
+      "componentType": 5126,
+      "count": 8124,
+      "max": [
+        0.99245399236679077,
+        0.99224799871444702
+      ],
+      "min": [
+        0.0032069999724626541,
+        0.0048110000789165497
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 42720,
+      "componentType": 5125,
+      "count": 42996,
+      "max": [
+        8123
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Ole Gunnar Isager (https://sketchfab.com/FrenchBaguette)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lotr-cave-troll-for-animatingrigging-20a50af723314c1dac04aad8c929aa1e",
+      "title": "LOTR Cave Troll - (for animating/rigging)"
+    },
+    "generator": "Sketchfab-8.83.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 214704,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 84184,
+      "byteOffset": 214704,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 252552,
+      "byteOffset": 298888,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 168368,
+      "byteOffset": 551440,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 719808,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/TEX_CaveTroll_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/TEX_CaveTroll_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/TEX_CaveTroll_normal.jpeg"
+    },
+    {
+      "uri": "textures/TEX_CaveTrollPants_baseColor.png"
+    },
+    {
+      "uri": "textures/TEX_CaveTrollPants_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/TEX_CaveTrollPants_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "TEX_CaveTroll",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "TEX_CaveTrollPants",
+      "normalTexture": {
+        "index": 5,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 4,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "CaveTroll_low.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
+
